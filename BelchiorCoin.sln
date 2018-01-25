@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockchain", "Blockchain\Blockchain.csproj", "{7DE081CF-9EC7-428C-8C79-3DFD10DE4B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelchiorCoin.Playground", "BelchiorCoin.Playground\BelchiorCoin.Playground.csproj", "{01C4C04F-6545-4186-966F-67D2AF092933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE081CF-9EC7-428C-8C79-3DFD10DE4B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE081CF-9EC7-428C-8C79-3DFD10DE4B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE081CF-9EC7-428C-8C79-3DFD10DE4B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE081CF-9EC7-428C-8C79-3DFD10DE4B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C4C04F-6545-4186-966F-67D2AF092933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C4C04F-6545-4186-966F-67D2AF092933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C4C04F-6545-4186-966F-67D2AF092933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C4C04F-6545-4186-966F-67D2AF092933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D61383-AF3C-4809-9CA0-E7F670C871C1}
+	EndGlobalSection
+EndGlobal
